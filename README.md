@@ -2,7 +2,7 @@
 - 👀 I’m interested in Data Science
 - 🌱 I’m currently learning ML/DL
 - 💞️ I’m looking to collaborate on data science projects
-- 📫 How to reach me https://www.linkedin.com/in/sumit-kumar-9b4970285?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BWQ8dfccGTz622mCrLPD4wQ%3D%3D
+- 📫 How to reach me https://www.linkedin.com/in/sumit-kumar
 - 😄 Pronouns: Loop/Loop - A reference to loops in programming.
 - ⚡ Fun fact: The first computer program ever written was for a mathematical calculation, created by Ada Lovelace in the mid-1800s!
 
