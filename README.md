@@ -5,7 +5,7 @@
 <p align="center">
   <a href="https://www.linkedin.com/in/sumit-kumar-gupta-9b4970285/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/-Let's%20Connect!-0077B5?style=flat&logo=linkedin&logoColor=white"/></a>
   <a href="mailto:sumit.gupta.14486@gmail.com"><img alt="Email" src="https://img.shields.io/badge/-Drop%20Me%20a%20Mail-D14836?style=flat&logo=gmail&logoColor=white"/></a>
-  <a href="https://github.com/sumit-kumar-guptaa/sumit-kumar-guptaa?tab=followers"><img alt="GitHub followers" src="https://img.shields.io/github/followers/IAteNoodles?label=See%20Who's%20Watching&style=flat&logo=github"/></a>
+  <a href="https://github.com/sumit-kumar-guptaa/sumit-kumar-guptaa?tab=followers"><img alt="GitHub followers" src="https://img.shields.io/github/followers/sumit-kumar-guptaa?label=See%20Who's%20Watching&style=flat&logo=github"/></a>
 </p>
 
 ---
@@ -51,5 +51,5 @@ Spaces I hang out:
 ---
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/IAteNoodles/sumit-kumar-guptaa/output/github-contribution-grid-snake.svg" alt="Contribution Snake"/>
+  <img src="https://raw.githubusercontent.com/sumit-kumar-guptaa/sumit-kumar-guptaa/output/github-contribution-grid-snake.svg" alt="Contribution Snake"/>
 </p>
