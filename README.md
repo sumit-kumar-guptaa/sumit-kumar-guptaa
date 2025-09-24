@@ -33,11 +33,11 @@ Spaces I hang out:
 ## Vibes & Visuals
 
 <p align="center">
-  <img src="https://github-stats-brown-nu.vercel.app/api?username=IAteNoodles&show_icons=true&theme=radical&hide_border=true&count_private=true" height="150" />
-  <img src="https://github-readme-streak-stats-delta-gray.vercel.app/?user=IAteNoodles&theme=radical&hide_border=true" height="150" />
+  <img src="https://github-stats-brown-nu.vercel.app/api?username=sumit-kumar-guptaa&show_icons=true&theme=radical&hide_border=true&count_private=true" height="150" />
+  <img src="https://github-readme-streak-stats-delta-gray.vercel.app/?user=sumit-kumar-guptaa&theme=radical&hide_border=true" height="150" />
 </p>
 <p align="center">
-  <img src="https://github-stats-brown-nu.vercel.app/api/top-langs/?username=IAteNoodles&theme=radical&hide_border=true&layout=compact" height="150"/>
+  <img src="https://github-stats-brown-nu.vercel.app/api/top-langs/?username=sumit-kumar-guptaa&theme=radical&hide_border=true&layout=compact" height="150"/>
 </p>
 
 ---
@@ -45,11 +45,11 @@ Spaces I hang out:
 ## Code in Motion
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=IAteNoodles&theme=radical&hide_border=true&hide_title=true&line=8F44FD&point=FFFFFF&area=true&area_color=8F44FD" height="180" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=sumit-kumar-guptaa&theme=radical&hide_border=true&hide_title=true&line=8F44FD&point=FFFFFF&area=true&area_color=8F44FD" height="180" />
 </p>
 
 ---
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/IAteNoodles/IAteNoodles/output/github-contribution-grid-snake.svg" alt="Contribution Snake"/>
+  <img src="https://raw.githubusercontent.com/IAteNoodles/sumit-kumar-guptaa/output/github-contribution-grid-snake.svg" alt="Contribution Snake"/>
 </p>
