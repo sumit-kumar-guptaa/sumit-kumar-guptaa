@@ -177,12 +177,8 @@ Smaller builds that round out the stack — worth a browse on the repos tab.
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=sumit-kumar-guptaa&show_icons=true&hide_title=true&bg_color=0D1117&title_color=FF9640&text_color=E2E8F0&icon_color=FFB577&hide_border=true&border_radius=12&count_private=true" height="165"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sumit-kumar-guptaa&layout=compact&bg_color=0D1117&title_color=FF9640&text_color=E2E8F0&hide_border=true&border_radius=12" height="165"/>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=sumit-kumar-guptaa&background=0D1117&border=0D1117&stroke=FF9640&ring=FF9640&fire=FF9640&currStreakLabel=E2E8F0&sideLabels=E2E8F0&dates=8B98A5" width="100%"/>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=sumit-kumar-guptaa&theme=github-compact&bg_color=0D1117&color=FF9640&line=FF9640&point=E2E8F0&hide_border=true&area=true" width="100%"/>
+<img src="https://github-readme-stats.vercel.app/api?username=sumit-kumar-guptaa&show_icons=true&hide_title=true&bg_color=0D1117&title_color=FF9640&text_color=E2E8F0&icon_color=FFB577&hide_border=true&border_radius=12&count_private=true&cache_seconds=86400" height="165"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sumit-kumar-guptaa&layout=compact&bg_color=0D1117&title_color=FF9640&text_color=E2E8F0&hide_border=true&border_radius=12&cache_seconds=86400" height="165"/>
 
 </div>
 
