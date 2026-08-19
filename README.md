@@ -2,7 +2,7 @@
 
 <img src="assets/hero.svg" alt="SUM-05 — Engineering Command Center: Sumit Kumar Gupta, AI/ML Engineer, Backend & Distributed Systems" width="100%" height="auto" />
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=20&duration=2800&pause=900&color=FF9640&center=true&vCenter=true&width=780&lines=Training+models%2C+not+just+calling+APIs;LightGBM+%C2%B7+MLflow+%C2%B7+SHAP+%C2%B7+RAG+%C2%B7+MCP+%C2%B7+Agents;Backend+that+survives+load%3A+Kafka+%C2%B7+Redis+%C2%B7+Docker;Final-Year+CS+%C2%B7+Open+to+AI%2FML+%26+SDE+roles" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=20&duration=2800&pause=900&color=FF9640&center=true&vCenter=true&width=780&lines=Final-Year+CS+%C2%B7+Open+to+AI%2FML+%26+SDE+roles;LightGBM+%C2%B7+MLflow+%C2%B7+SHAP+%C2%B7+RAG+%C2%B7+MCP+%C2%B7+Agents;Backend+that+survives+load%3A+Kafka+%C2%B7+Redis+%C2%B7+Docker;Currently+shipping%2C+not+just+shipping+demos" alt="Typing SVG" />
 
 <br/>
 
@@ -11,8 +11,21 @@
 <a href="https://www.linkedin.com/in/sumit-kumar-gupta-9b4970285/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 <img src="https://komarev.com/ghpvc/?username=sumit-kumar-guptaa&style=for-the-badge&color=FF9640&label=PROFILE+VIEWS" />
 
+</div>
+
 <br/>
-<img src="assets/pacman.svg" alt="" width="100%" height="60" />
+
+<div align="center">
+
+### `./contribution-snake --autoplay`
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/sumit-kumar-guptaa/sumit-kumar-guptaa/output/dist/snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/sumit-kumar-guptaa/sumit-kumar-guptaa/output/dist/snake-light.svg" />
+  <img alt="Contribution snake animation" src="https://raw.githubusercontent.com/sumit-kumar-guptaa/sumit-kumar-guptaa/output/dist/snake-dark.svg" width="100%" />
+</picture>
+
+<sub>A snake that eats my GitHub contribution graph, regenerated daily via `.github/workflows/snake.yml`. Setup (one-time): commit the workflow file to `.github/workflows/snake.yml` in your profile repo → go to the **Actions** tab → run `generate-snake-animation` manually once. It creates an `output` branch with the live SVGs, and the animation above goes live from then on (refreshes daily on its own after that).</sub>
 
 </div>
 
@@ -37,6 +50,8 @@ belief: "A model in a notebook is a demo. A model behind an API with monitoring 
 
 <br/>
 
+## `cat skills.json`
+
 <table width="100%">
 <tr>
 <td width="50%" valign="top">
@@ -52,7 +67,7 @@ belief: "A model in a notebook is a demo. A model behind an API with monitoring 
 ### ⚙️ Backend & Systems
 
 <img src="https://skillicons.dev/icons?i=java,spring,fastapi,kafka,redis,docker&theme=dark" /><br/>
-`Spring Boot` `FastAPI` `Kafka` `RabbitMQ` `Redis` `Resilience4j`
+`Java` `Spring Boot` `FastAPI` `Kafka` `RabbitMQ` `Redis` `Resilience4j`
 
 </td>
 </tr>
@@ -62,15 +77,15 @@ belief: "A model in a notebook is a demo. A model behind an API with monitoring 
 ### ☁️ Infra & MLOps
 
 <img src="https://skillicons.dev/icons?i=aws,docker,githubactions,grafana,prometheus&theme=dark" /><br/>
-`Docker` `GitHub Actions` `Prometheus` `Grafana` `n8n`
+`AWS` `Docker` `GitHub Actions` `Prometheus` `Grafana` `n8n`
 
 </td>
 <td width="50%" valign="top">
 
-### 💻 Core
+### 💻 Web & Data
 
-<img src="https://skillicons.dev/icons?i=java,python,js,react,postgres&theme=dark" /><br/>
-`Java` `Python` `JavaScript` `React` `PostgreSQL`
+<img src="https://skillicons.dev/icons?i=js,react,postgres&theme=dark" /><br/>
+`JavaScript` `React` `PostgreSQL`
 
 </td>
 </tr>
@@ -180,19 +195,11 @@ Smaller builds that round out the stack — worth a browse on the repos tab.
 <img src="https://github-readme-stats.vercel.app/api?username=sumit-kumar-guptaa&show_icons=true&hide_title=true&bg_color=0D1117&title_color=FF9640&text_color=E2E8F0&icon_color=FFB577&hide_border=true&border_radius=12&count_private=true&cache_seconds=86400" height="165"/>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sumit-kumar-guptaa&layout=compact&bg_color=0D1117&title_color=FF9640&text_color=E2E8F0&hide_border=true&border_radius=12&cache_seconds=86400" height="165"/>
 
-</div>
-
 <br/>
 
-## `./contribution-snake --autoplay`
+<img src="https://github-readme-streak-stats-eight.vercel.app?user=sumit-kumar-guptaa&background=0D1117&border=FF9640&ring=FF9640&fire=FFB577&currStreakLabel=FF9640&hide_border=true&border_radius=12" height="165"/>
 
-A snake that literally eats my GitHub contribution graph, regenerated daily.
-
-<div align="center">
-<img src="https://raw.githubusercontent.com/sumit-kumar-guptaa/sumit-kumar-guptaa/output/snake-dark.svg" alt="Contribution snake animation" width="100%"/>
 </div>
-
-> This one is already wired up — `.github/workflows/snake.yml` is included in this package. After you push, just go to the **Actions** tab of your repo and manually run `generate-snake-animation` once. It creates an `output` branch with the live SVG, and the image above starts working automatically from then on (and refreshes daily).
 
 <br/>
 
